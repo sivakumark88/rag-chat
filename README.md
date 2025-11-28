@@ -1,3 +1,6 @@
+# UI
+<img width="1424" height="907" alt="Screenshot 2025-11-28 at 5 26 06 PM" src="https://github.com/user-attachments/assets/f0859fac-1420-47bd-a6f4-a78d8f1f2b74" />
+
 # RAG Chat System
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions based on your documentation using FAISS vector search and OpenAI's GPT models.
